@@ -1,7 +1,11 @@
-* {
-    box-sizing: border-box;
-    margin: 10;
-    padding: 10;
-    font-family: 'Lato', sans-serif;
-    scroll-behavior: smooth;
+form {
+    text-align: center; 
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid white;
 }
