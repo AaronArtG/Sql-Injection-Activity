@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+    margin: 10;
+    padding: 10;
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
+}
